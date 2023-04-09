@@ -1,0 +1,6 @@
+[submodule "create"]
+	path = create
+	url = https://github.com/Fabricators-of-Create/Create
+[submodule "porting-lib"]
+	path = porting-lib
+	url = https://github.com/Fabricators-of-Create/Porting-Lib
